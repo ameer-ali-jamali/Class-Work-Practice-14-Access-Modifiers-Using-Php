@@ -30,7 +30,7 @@
     //Class Member Access Specifier   Access from own class	  Accessible from derived class   Accessible by Object
 
     //  Private	                  Yes	                  No 	                          No
-    //  Protected	                  Yes	                  Yes	                          No
+    //  Protected	              Yes	                  Yes	                          No
     //  Public	                  Yes	                  Yes                          	  Yes
 
 
